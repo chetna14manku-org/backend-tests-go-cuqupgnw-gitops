@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/backend-tests-go-cuqupgnw:837e070d194bd89efc1d35b5db8f38f38b0ce6fa
+        - image: quay.io/chetna14manku_org/backend-tests-go-cuqupgnw:e7e47fad4bd8e5383bd4a408a2811a137724caa6
           name: container-image
